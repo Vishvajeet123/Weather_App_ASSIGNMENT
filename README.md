@@ -2,7 +2,14 @@
 
 - Clone
 - Install dependencies - npm i 
- live link  of the  project -- https://papaya-kringle-969fc5.netlify.app/
+
+
+
+- live link  of the  project -- https://papaya-kringle-969fc5.netlify.app/
+
+
+
+
 
 
 
