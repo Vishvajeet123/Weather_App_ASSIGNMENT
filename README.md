@@ -1,8 +1,11 @@
 # How to use the project
 
 - Clone
-- Install dependencies (npm i)
-- Get your API key and add to weatherService.js
-- Enjoy!!
+- Install dependencies - npm i 
+ live link  of the  project -- https://papaya-kringle-969fc5.netlify.app/
+
+
+
 
 > Leave a star :)
+
